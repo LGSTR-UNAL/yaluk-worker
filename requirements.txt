@@ -1,0 +1,6 @@
+pandas
+confluent-kafka==2.14.0
+confluent-kafka-stubs
+psycopg[binary]
+psycopg[pool]
+boto3
